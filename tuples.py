@@ -34,3 +34,7 @@
 # print("-"*20)
 # print(f"Total\t{float(total)}")
 
+length = 10
+width = 20
+area_rectangle = length*width
+print(area_rectangle)
